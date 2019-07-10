@@ -10,7 +10,6 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/HelloKotlin" />
             <option value="$PROJECT_DIR$/HelloMvvm" />
-            <option value="$PROJECT_DIR$/TuringChat" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
