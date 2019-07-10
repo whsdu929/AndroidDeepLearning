@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidDeepLearning.iml" filepath="$PROJECT_DIR$/AndroidDeepLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloKotlin/HelloKotlin.iml" filepath="$PROJECT_DIR$/HelloKotlin/HelloKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloMvvm/HelloMvvm.iml" filepath="$PROJECT_DIR$/HelloMvvm/HelloMvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TuringChat/TuringChat.iml" filepath="$PROJECT_DIR$/TuringChat/TuringChat.iml" />
+    </modules>
+  </component>
+</project>
